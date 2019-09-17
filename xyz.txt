@@ -3,3 +3,9 @@ how to use github
 first we create a acc on git
 fill the information on git
 click on ok
+
+
+
+
+display the message 
+acc created succefully
